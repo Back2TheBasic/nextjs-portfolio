@@ -5,7 +5,7 @@
 
 [소윤's 레포지토리 바로가기](https://github.com/soyoonJ/nextjs-tailwind-portfolio)  
 [상봉's 레포지토리 바로가기](https://github.com/In-Self-Improvement/nextJsTutorial)    
-[상원's 레포지토리 바로가기]
+[상원's 레포지토리 바로가기](https://github.com/wkqkel/one-log)
 
 ## 🍀 목표
 모각코 첫 프로젝트 주제    
@@ -36,7 +36,7 @@ npm run dev
 ### 상봉
 - React의 단점(CSR...)을 보안하기 위해 Next.js를 많이 사용한다고 들었다. 해당 기술은 회사에서 사용하고 있지 않았고 도입하기에는 어려워 보여서 사이드로 진행하게 되었다. 아쉽게도 SSR의 장점을 느끼진 못했지만, pages/api 디렉토리를 통해 서버리스 함수를 사용해볼 수 있는 경험을 하게 되었다. 또한 tailwind css를 사용하면서 Utility-First의 편리함과 그로 인한 빠른 개발이 가능해져서 왜 tailwind를 많이 사용하는지 알게되었다. 이번 프로젝트에서 처음으로 오프라인 모각코를 진행해보았는데, 같은 주제, 같은 기능으로 다른 함수가 나올 수 있었고 그로 인한 서로에 대한 의견 공유하는 것이 매우 의미 있었던 것 같았다.
 ### 상원
-- 
+- nextjs, tailwind, vercel, notionApi 등을 이용해 간단하고 빠르게 블로그를 만들어내는 경험을 했다. 스타일링도 직접 하나하나 만드는 것이 아닌, 이미 만들어진 것을 가져와서 변형하는 방식으로 했는데, 덕분에 쉽고 빠르게 다크 모드 및 반응형 까지 구현할 수 있었다. 또 notionApi를 사용하는 과정에서 postMan을 다루는 것을 익힐 수 있어서, 종종 사용할 수 있게 되었다. 오프라인 모각코를 했는데, 기분전환도 되고, 막히는 부분도 바로 바로 물어보며, 더 재밌게 할 수 있었다!
 
 ## 🕵🏻‍♂️ 참고
 https://www.youtube.com/watch?v=KvoFvmu5eRo&t=335s
